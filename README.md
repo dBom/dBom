@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dBom
-- 👀 I’m interested in generative video coding for NFT 
+- 👀 I’m interested in AI Assistants in the Hospitality and Events Industry
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on generative video art
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me ... linktr.ee/dbom 
 
 <!---
